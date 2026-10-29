@@ -47,3 +47,4 @@ The analysis helps highlight sales trends, high-performing products, and periods
 # Project Outcome
 
 Developed a sales analysis workflow combining SQL-based business analysis, Python-based data exploration, and Power BI KPI reporting to turn raw transaction data into meaningful business insights.
+<img width="1672" height="941" alt="Coffee Shop Sales Analytics Dashboard" src="https://github.com/user-attachments/assets/52e61370-9fb9-430e-a14e-83d91f683c99" />
